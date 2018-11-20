@@ -21,3 +21,7 @@ Particle size distributions
 
 #Figures section
 This is where the figures go.
+
+#Acknowledgements 
+I would like to thank my awesome supervisor for wisdom and guidance. 
+I would also like to thank the EU funding body RIP.
