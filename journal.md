@@ -8,4 +8,6 @@ Natalie Card
 We have to acknowledge previous work, so as not to appear full of overselves.
 Haywood et al 1998 made great measurements here already.
 
-We used an AMS (Allen et all 2004) to measure particle composition
+We used an AMS (Allen et all 2004) to measure particle composition.
+
+Ground based measurements of BBOA have been made by J. Smith et al. 
