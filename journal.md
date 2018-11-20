@@ -6,4 +6,6 @@ Natalie Card
 
 # Introduction
 We have to acknowledge previous work, so as not to appear full of overselves.
-Haywood et al 1998 made great measures.
+Haywood et al 1998 made great measurements here already.
+
+We used an AMS (Allen et all 2004) to measure particle composition
